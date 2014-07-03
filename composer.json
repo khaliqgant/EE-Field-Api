@@ -1,0 +1,14 @@
+{
+    "name": "khaliqgant/ee-field-api",
+    "description": "Giving your ExpressionEngine third party add ons access to programmatic manipulation of channel field data",
+    "authors": [
+        {
+            "name": "Khaliq Gant",
+            "email": "khaliqgant@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "~4.1",
+        "expressodev/laravel-codeigniter-db": "~1.0"
+    }
+}
